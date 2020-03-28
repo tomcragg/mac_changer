@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6d8cb5a-287c-4e46-8fdf-ba9f4070ab3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZU9ydFx5BIFB5cjPVCjw5aHOxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="tasks.servers" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mac_changer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mac_changer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mac_changer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mac_changer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d8cb5a-287c-4e46-8fdf-ba9f4070ab3f" name="Default Changelist" comment="" />
+      <created>1584883060454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584883060454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1565" height="268" key="GridCell.Tab.0.bottom" timestamp="1584883626769">
+      <screen x="0" y="27" width="2588" height="1703" />
+    </state>
+    <state width="1565" height="268" key="GridCell.Tab.0.bottom/0.27.2588.1703@0.27.2588.1703" timestamp="1584883626769" />
+    <state width="1565" height="268" key="GridCell.Tab.0.center" timestamp="1584883626768">
+      <screen x="0" y="27" width="2588" height="1703" />
+    </state>
+    <state width="1565" height="268" key="GridCell.Tab.0.center/0.27.2588.1703@0.27.2588.1703" timestamp="1584883626768" />
+    <state width="1565" height="268" key="GridCell.Tab.0.left" timestamp="1584883626768">
+      <screen x="0" y="27" width="2588" height="1703" />
+    </state>
+    <state width="1565" height="268" key="GridCell.Tab.0.left/0.27.2588.1703@0.27.2588.1703" timestamp="1584883626768" />
+    <state width="1565" height="268" key="GridCell.Tab.0.right" timestamp="1584883626769">
+      <screen x="0" y="27" width="2588" height="1703" />
+    </state>
+    <state width="1565" height="268" key="GridCell.Tab.0.right/0.27.2588.1703@0.27.2588.1703" timestamp="1584883626769" />
+    <state x="1649" y="718" width="1269" height="907" key="SettingsEditor" timestamp="1584908257234">
+      <screen x="0" y="27" width="3232" height="1801" />
+    </state>
+    <state x="1649" y="718" width="1269" height="907" key="SettingsEditor/0.27.3232.1801@0.27.3232.1801" timestamp="1584908257234" />
+    <state x="1432" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1585397746530">
+      <screen x="0" y="27" width="2870" height="1451" />
+    </state>
+    <state x="1120" y="292" key="com.intellij.ide.util.TipDialog/0.27.2246.1175@0.27.2246.1175" timestamp="1584893991953" />
+    <state x="1136" y="315" key="com.intellij.ide.util.TipDialog/0.27.2278.1275@0.27.2278.1275" timestamp="1584892233012" />
+    <state x="1321" y="424" key="com.intellij.ide.util.TipDialog/0.27.2650.1759@0.27.2650.1759" timestamp="1584890371730" />
+    <state x="1432" y="354" key="com.intellij.ide.util.TipDialog/0.27.2870.1451@0.27.2870.1451" timestamp="1585397746530" />
+    <state x="1612" y="433" key="com.intellij.ide.util.TipDialog/0.27.3232.1801@0.27.3232.1801" timestamp="1584906209242" />
+    <state x="2554" y="474" key="com.intellij.ide.util.TipDialog/0.27.5120.1981@0.27.5120.1981" timestamp="1584991851660" />
+  </component>
+</project>
